@@ -1,4 +1,6 @@
-<img align="center" src="https://github.com/gururamu4/gururamu4/blob/main/Guru%20Ramu.png"/>
+<div style="text-align: center">
+ <img align="center" src="https://github.com/gururamu4/gururamu4/blob/main/Guru%20Ramu.png"/>
+</div>
  <hr></hr>
 <p align="center">
   <samp>
