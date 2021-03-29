@@ -1,4 +1,4 @@
-<div style="text-align: center">
+<div text-align =:center">
  <img src="https://github.com/gururamu4/gururamu4/blob/main/Guru%20Ramu.png"/>
 </div>
  <hr></hr>
