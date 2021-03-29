@@ -1,4 +1,4 @@
-<img src="https://github.com/gururamu4/gururamu4/blob/main/Guru%20Ramu.png"/>
+<img align="center" src="https://github.com/gururamu4/gururamu4/blob/main/Guru%20Ramu.png"/>
  <hr></hr>
 <p align="center">
   <samp>
