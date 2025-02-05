@@ -7,7 +7,7 @@
 <p align="center">
   <samp>
     Hi, I'm Guru! 👋 <br>
-    🚀 Full Stack Developer with <strong>6+ years</strong> of experience building scalable and high-performance Web & Mobile applications. <br>
+    🚀 Full Stack Developer with <strong>7 years</strong> of experience building scalable and high-performance Web & Mobile applications. <br>
     🔥 Expertise in architecting and developing Full Stack, Cloud, and Web3 applications. <br>
     ✨ Tech Stack: JavaScript, TypeScript, React, Next.js, Angular, Node.js, AWS, PostgreSQL, MongoDB. <br>
     🛠️ Proficient in Microservices, Event-Driven Architecture, CI/CD Pipelines (GitHub Actions, Jenkins, CircleCI, Bitbucket Pipelines), Docker, Kubernetes, and Monorepos. <br>
