@@ -17,3 +17,9 @@
     💼 LinkedIn: <a href="https://www.linkedin.com/in/guru-ramu/" target="_blank">https://www.linkedin.com/in/guru-ramu/</a> <br>
   </samp>
 </p>
+
+
+<img width="1266" alt="Screenshot 2025-02-06 at 2 57 27 AM" src="https://github.com/user-attachments/assets/d6c1d75e-929f-4c8a-84ca-c6d84ac84904" />
+<img width="1256" alt="Screenshot 2025-02-06 at 2 57 37 AM" src="https://github.com/user-attachments/assets/4f6e74a0-019b-4715-aaca-9dc7703e99c0" />
+<img width="1273" alt="Screenshot 2025-02-06 at 2 57 50 AM" src="https://github.com/user-attachments/assets/e9428799-dc5a-4663-b5eb-0078aa2737db" />
+
