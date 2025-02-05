@@ -13,7 +13,7 @@
     🛠️ Proficient in Microservices, Event-Driven Architecture, CI/CD Pipelines (GitHub Actions, Jenkins, CircleCI, Bitbucket Pipelines), Docker, Kubernetes, and Monorepos. <br>
     🌐 Experienced in Web3 integrations, smart contracts, and blockchain development using Solidity, Web3.js, Ethers.js, and Viem. <br>
     📩 Email: <a href="mailto:gururamu4497@gmail.com">gururamu4497@gmail.com</a> <br>
-    🎨 Portfolio: <a href="https://gururamu.vercel.app/" target="_blank">https://gururamu.netlify.app</a> <br>
+    🎨 Portfolio: <a href="https://gururamu.vercel.app/" target="_blank">https://gururamu.vercel.app</a> <br>
     💼 LinkedIn: <a href="https://www.linkedin.com/in/guru-ramu/" target="_blank">https://www.linkedin.com/in/guru-ramu/</a> <br>
   </samp>
 </p>
